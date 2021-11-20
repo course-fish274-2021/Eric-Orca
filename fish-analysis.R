@@ -13,3 +13,8 @@ install.packages("tidyverse")
 library("ggplot2")
 ggplot(data=fish_data_cat)+
   geom_point(mapping=aes(x=length,y=scalelength,color=lakeid))
+
+
+
+ggplot(fish_data_cat, aes(x = scalelength, fill = length_cat)) +
+  geom_histogram(bins = 80)
