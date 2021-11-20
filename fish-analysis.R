@@ -6,3 +6,5 @@ fish_data_cat <- fish_data %>%
 #change size cutoff for new column
 fish_data_cat <- fish_data %>%
   mutate(length_cat = ifelse(length > 300, "big", "small"))
+#remove fish data with scale size smaller than 1 mm
+fish_data_cat <-filter(fish_data_cat, scalelength > 1)
