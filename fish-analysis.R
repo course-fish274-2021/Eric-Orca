@@ -16,5 +16,6 @@ ggplot(data=fish_data_cat)+
 
 
 
-ggplot(fish_data_cat, aes(x = scalelength, fill = length_cat)) +
+scale_hist_by_length <- ggplot(fish_data_cat, aes(x = scalelength, fill = length_cat)) +
   geom_histogram(bins = 80)
+ggsave("scale_hist_by_length.jpg")
