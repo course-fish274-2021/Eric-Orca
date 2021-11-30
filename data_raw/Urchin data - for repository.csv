@@ -1,0 +1,263 @@
+Date,Day,UrchinID,Treatment,BuddyPair,Distance (cm) travelled in 30 sec (predator flight response),NumUrchinsDeployedAtBuoy,BuoyNumber,UrchinTestDiameter(mm),Righting time on release day (sec),Righting time over 180 sec (0/1) (deployment day),AggregationScore,Righting time post-24h (sec),Righting time over 180 sec (0/1) (post 24h)
+12-May-16,1,Wild 1,wildcontrol,Faye&Aneesh,40,,,77,50,0,11,,
+12-May-16,1,Wild 2,wildcontrol,Faye&Aneesh,25,,,48,30,0,13,,
+12-May-16,1,Wild 3,wildcontrol,Faye&Aneesh,30,,,48,43,0,12,,
+12-May-16,1,Wild 4,wildcontrol,Faye&Aneesh,30,,,71,124,0,22,,
+12-May-16,1,Wild 5,wildcontrol,Faye&Aneesh,15,,,68,50,0,6,,
+12-May-16,1,Wild 6,wildcontrol,Haley&Tasha,17,,,36.9,56,0,2,,
+12-May-16,1,Wild 7,wildcontrol,Haley&Tasha,7,,,52.2,62,0,9,,
+12-May-16,1,Wild 8,wildcontrol,Haley&Tasha,17,,,65.6,36,0,16,,
+12-May-16,1,Wild 9,wildcontrol,Haley&Tasha,4,,,63.7,44,0,6,,
+12-May-16,1,Wild 10 ,wildcontrol,Nikos&Jeff,25,,,46,40,0,27,,
+12-May-16,1,Wild 11,wildcontrol,Nikos&Jeff,10,,,74,20,0,12,,
+12-May-16,1,Wild 12,wildcontrol,Nikos&Jeff,30,,,60,15,0,15,,
+12-May-16,1,Wild 13,wildcontrol,Nikos&Jeff,25,,,77,45,0,15,,
+12-May-16,1,Wild 14,wildcontrol,Nikos&Jeff,20,,,80,65,0,18,,
+12-May-16,1,Wild 15,wildcontrol,Nikos&Jeff,30,,,80,30,0,9,,
+13-May-16,2,Wild 20,wildcontrol,Haley&Tasha,2,,,79.9,,1,16,,
+13-May-16,2,Wild 21,wildcontrol,Haley&Tasha,12,,,59.4,83,0,15,,
+13-May-16,2,Wild 22,wildcontrol,Haley&Tasha,11,,,65.5,,1,20,,
+13-May-16,2,Wild 23,wildcontrol,Haley&Tasha,18,,,71.6,12,0,22,,
+13-May-16,2,Wild 24,wildcontrol,Faye&Aneesh,,,,72,34,0,21,,
+13-May-16,2,Wild 25,wildcontrol,Faye&Aneesh,,,,64,58,0,20,,
+14-May-16,3,Wild 26,wildcontrol,Haley&Tasha,4,,,56,45,0,16,,
+14-May-16,3,Wild 27,wildcontrol,Haley&Tasha,20,,,68,35,0,21,,
+14-May-16,3,Wild 28,wildcontrol,Nikos&Jeff,5,,,,40,0,,,
+14-May-16,3,Wild 29,wildcontrol,Nikos&Jeff,15,,,,100,0,,,
+14-May-16,3,Wild 30,wildcontrol,Nikos&Jeff,10,,,,10,0,,,
+14-May-16,3,Wild 31,wildcontrol,Nikos&Jeff,30,,,,30,0,,,
+14-May-16,3,Wild 32,wildcontrol,Faye&Aneesh,33,,,54,11,0,15,,
+14-May-16,3,Wild 33,wildcontrol,Faye&Aneesh,15,,,57,101,0,21,,
+16-May-16,4,Wild 34,wildcontrol,Nikos&Jeff,30,,,64,30,0,6,,
+16-May-16,4,Wild 35,wildcontrol,Nikos&Jeff,30,,,71,30,0,8,,
+16-May-16,4,Wild 36,wildcontrol,Nikos&Jeff,30,,,55,40,0,4,,
+16-May-16,4,Wild 37,wildcontrol,Nikos&Jeff,15,,,73,25,0,14,,
+16-May-16,4,Wild 38,wildcontrol,Faye&Aneesh,37,,,72,22,0,8,,
+16-May-16,4,Wild 39,wildcontrol,Faye&Aneesh,27,,,78,79,0,19,,
+16-May-16,4,Wild 40,wildcontrol,Faye&Aneesh,36,,,72,26,0,9,,
+16-May-16,4,Wild 41,wildcontrol,Faye&Aneesh,30,,,59,34,0,13,,
+16-May-16,4,Wild 42,wildcontrol,Aari&Jon,24,,,42,25,0,27,,
+16-May-16,4,Wild 43,wildcontrol,Aari&Jon,40,,,46,48,0,22,,
+16-May-16,4,Wild 44,wildcontrol,Aari&Jon,22,,,74,63,0,25,,
+16-May-16,4,Wild 45,wildcontrol,Aari&Jon,22,,,63,75,0,20,,
+16-May-16,4,Wild 46,wildcontrol,Haley&Tasha,10,,,75,29,0,9,,
+16-May-16,4,Wild 47,wildcontrol,Haley&Tasha,30,,,63,105,0,14,,
+16-May-16,4,Wild 48,wildcontrol,Haley&Tasha,24,,,50,45,0,9,,
+16-May-16,4,Wild 49,wildcontrol,Haley&Tasha,30,,,65,43,0,8,,
+16-May-16,4,Wild 50,wildcontrol,Spice&Dan,26,,,56,88,0,12,,
+16-May-16,4,Wild 51,wildcontrol,Spice&Dan,18,,,51,35,0,21,,
+16-May-16,4,Wild 52,wildcontrol,Spice&Dan,15,,,60,39,0,9,,
+17-May-16,5,Wild 53,wildcontrol,Faye&Aneesh,23,,,58,23,0,20,,
+17-May-16,5,Wild 54,wildcontrol,Faye&Aneesh,19,,,58,63,0,15,,
+17-May-16,5,Wild 55,wildcontrol,Faye&Aneesh,19,,,61,41,0,22,,
+17-May-16,5,Wild 56,wildcontrol,Faye&Aneesh,25,,,52,43,0,21,,
+17-May-16,5,Wild 57,wildcontrol,Nikos&Jeff,15,,,67,45,0,9,,
+17-May-16,5,Wild 58,wildcontrol,Nikos&Jeff,15,,,56,100,0,6,,
+17-May-16,5,Wild 59,wildcontrol,Nikos&Jeff,10,,,70,50,0,11,,
+17-May-16,5,Wild 60,wildcontrol,Nikos&Jeff,5,,,92,35,0,9,,
+17-May-16,5,Wild 61,wildcontrol,Nikos&Jeff,15,,,69,45,0,6,,
+17-May-16,5,Wild 62,wildcontrol,Nikos&Jeff,5,,,73,65,0,5,,
+17-May-16,5,Wild 63,wildcontrol,Aari&Jon,25,,,40,,1,17,,
+17-May-16,5,Wild 64,wildcontrol,Aari&Jon,27,,,72,78,0,27,,
+17-May-16,5,Wild 65,wildcontrol,Haley&Tasha,23,,,61,73,0,13,,
+17-May-16,5,Wild 66,wildcontrol,Haley&Tasha,10,,,67,68,0,13,,
+17-May-16,5,Wild 67,wildcontrol,Haley&Tasha,32,,,81,51,0,20,,
+17-May-16,5,Wild 68,wildcontrol,Haley&Tasha,25,,,56,16,0,22,,
+12-May-16,,H1,handlingcontrol,Aari&Jon,,8,5,55,105,0,,,
+12-May-16,,H2,handlingcontrol,Aari&Jon,22,8,5,57,,1,23,47,0
+12-May-16,,H3,handlingcontrol,Aari&Jon,0,8,5,58,,1,17,170,0
+12-May-16,,H4,handlingcontrol,Aari&Jon,24,8,5,54,112,0,20,41,0
+12-May-16,,H 5,handlingcontrol,Nikos&Jeff,30,8,1,36,130,0,9,130,0
+12-May-16,,H 6,handlingcontrol,Nikos&Jeff,5,8,1,61,,1,14,,1
+12-May-16,,H 7,handlingcontrol,Nikos&Jeff,20,8,1,45,,1,17,,1
+12-May-16,,H8,handlingcontrol,Aari&Jon,9,8,4,51,58,0,10,75,0
+12-May-16,,H9,handlingcontrol,Aari&Jon,0,8,5,62,80,0,17,40,0
+12-May-16,,H 10,handlingcontrol,Nikos&Jeff,30,8,1,70,45,0,12,43,0
+12-May-16,,H 11,handlingcontrol,Nikos&Jeff,15,8,1,56,25,0,8,25,0
+12-May-16,,H 12,handlingcontrol,Nikos&Jeff,30,8,1,58,78,0,12,78,0
+12-May-16,,H13,handlingcontrol,Aari&Jon,14,8,4,59,,1,10,69,0
+12-May-16,,H14,handlingcontrol,Aari&Jon,30,8,4,55,143,0,7,120,0
+12-May-16,,H 15,handlingcontrol,Faye&Aneesh,20,8,3,54,47,0,9,165,0
+12-May-16,,H 16,handlingcontrol,Faye&Aneesh,,8,3,62,110,0,,,
+12-May-16,,H17,handlingcontrol,Aari&Jon,10,8,5,60,103,0,17,70,0
+12-May-16,,H18,handlingcontrol,Aari&Jon,27,8,5,51,110,0,24,57,0
+12-May-16,,H 19,handlingcontrol,Nikos&Jeff,25,8,1,63,105,0,11,105,0
+12-May-16,,H 20,handlingcontrol,Nikos&Jeff,20,8,1,69,,1,18,,1
+12-May-16,,H21,handlingcontrol,Aari&Jon,26,8,4,47,65,0,13,22,0
+12-May-16,,H22,handlingcontrol,Aari&Jon,30,8,4,37,,1,14,59,0
+12-May-16,,H23,handlingcontrol,Aari&Jon,15,8,4,57,,0,12,65,0
+12-May-16,,H 24,handlingcontrol,Faye&Aneesh,23,8,3,56,112,0,7,51,0
+12-May-16,,H 25,handlingcontrol,Faye&Aneesh,,8,3,57,95,0,,,
+12-May-16,,H 26,handlingcontrol,Nikos&Jeff,12,6,2,47,165,0,25,,1
+12-May-16,,H 27,handlingcontrol,Nikos&Jeff,0,6,2,42,45,0,12,45,0
+12-May-16,,H 28,handlingcontrol,Nikos&Jeff,15,6,2,31,125,0,12,45,0
+12-May-16,,H 29,handlingcontrol,Nikos&Jeff,15,6,2,37,,1,10,,1
+12-May-16,,H 30,handlingcontrol,Nikos&Jeff,15,6,2,25,,1,9,,1
+12-May-16,,H33,handlingcontrol,Aari&Jon,22,8,5,23,85,0,15,75,0
+12-May-16,,H34,handlingcontrol,Aari&Jon,11,8,4,50,176,0,10,73,0
+12-May-16,,H35,handlingcontrol,Aari&Jon,22,8,4,54,58,0,14,50,0
+12-May-16,,H 36,handlingcontrol,Faye&Aneesh,4,8,3,65,105,0,9,172,0
+12-May-16,,H 37,handlingcontrol,Faye&Aneesh,,8,3,59,,1,,,
+12-May-16,,H 38,handlingcontrol,Faye&Aneesh,,8,3,48,130,0,,,
+12-May-16,,H 39,handlingcontrol,Faye&Aneesh,23,8,3,51,47,0,4,118,0
+12-May-16,,H 40,handlingcontrol,Nikos&Jeff,5,6,2,61,60,0,9,60,0
+13-May-16,,A 1,1daycaptive,Faye&Aneesh,25,8,3,47,,1,15,,1
+13-May-16,,A 2,1daycaptive,Haley&Tasha,,8,2,60,70,0,,,
+13-May-16,,A 3,1daycaptive,Faye&Aneesh,20,8,3,55,,1,15,87,0
+13-May-16,,A 4,1daycaptive,Haley&Tasha,5,8,2,78,112,0,21,20,0
+13-May-16,,A5,1daycaptive,Aari&Jon,32,8,5,60,125,0,26,50,0
+13-May-16,,A 6,1daycaptive,Nikos&Jeff,20,8,1,64,65,0,,95,0
+13-May-16,,A 7,1daycaptive,Nikos&Jeff,20,8,1,70,40,0,9,,1
+13-May-16,,A8,1daycaptive,Spice&Dan,4,8,4,47,180,0,21,180,0
+13-May-16,,A 9,1daycaptive,Faye&Aneesh,,8,3,61,54,0,15,61,0
+13-May-16,,A10,1daycaptive,Spice&Dan,17,8,4,74,180,0,21,30,0
+13-May-16,,A 11,1daycaptive,Nikos&Jeff,9,8,1,63,,1,10,,1
+13-May-16,,A12,1daycaptive,Aari&Jon,,8,5,58,115,0,,,
+13-May-16,,A 13,1daycaptive,Haley&Tasha,15,8,2,53,100,0,21,70,0
+13-May-16,,A14,1daycaptive,Aari&Jon,18,8,5,68,116,0,28,45,0
+13-May-16,,A15,1daycaptive,Spice&Dan,22,8,4,65,28,0,9,65,0
+13-May-16,,A 16,1daycaptive,Faye&Aneesh,32,8,3,44,53,0,15,107,0
+13-May-16,,A 17,1daycaptive,Haley&Tasha,0,8,2,60,45,0,21,125,0
+13-May-16,,A18,1daycaptive,Aari&Jon,21,8,5,66,114,0,7,77,0
+13-May-16,,A19,1daycaptive,Aari&Jon,21,8,5,67,115,0,14,70,0
+13-May-16,,A20,1daycaptive,Aari&Jon,,8,5,57,52,0,,,
+13-May-16,,A 21,1daycaptive,Faye&Aneesh,,8,3,72,61,0,15,,
+13-May-16,,A 22,1daycaptive,Nikos&Jeff,9,8,2,50,95,0,10,35,0
+13-May-16,,A23,1daycaptive,Spice&Dan,19,8,4,92,106,0,21,50,0
+13-May-16,,A 24,1daycaptive,Nikos&Jeff,14,8,1,71,135,0,,115,0
+13-May-16,,A 25,1daycaptive,Haley&Tasha,10,8,2,58,108,0,21,40,0
+13-May-16,,A26,1daycaptive,Spice&Dan,28,8,4,64,180,0,21,34,0
+13-May-16,,A27,1daycaptive,Spice&Dan,14,8,4,49,65,0,21,148,0
+13-May-16,,A 28,1daycaptive,Faye&Aneesh,,8,3,70,53,0,,,
+13-May-16,,A 29,1daycaptive,Nikos&Jeff,10,8,1,56,120,0,10,145,0
+13-May-16,,A30,1daycaptive,Spice&Dan,15,8,4,57,15,0,8,64,0
+13-May-16,,A 31,1daycaptive,Faye&Aneesh,,8,3,58,78,0,15,60,0
+13-May-16,,A32,1daycaptive,Aari&Jon,3,8,5,69,85,0,17,150,0
+13-May-16,,A 33,1daycaptive,Nikos&Jeff,6,8,1,79,140,0,10,65,0
+13-May-16,,A 34,1daycaptive,Nikos&Jeff,15,8,1,67,,0,21,75,0
+13-May-16,,A 35,1daycaptive,Haley&Tasha,10,8,2,88,,1,21,,
+13-May-16,,A 36,1daycaptive,Nikos&Jeff,17,8,2,56,45,0,10,90,0
+13-May-16,,A37,1daycaptive,Spice&Dan,12,8,4,46,143,0,21,120,0
+13-May-16,,A38,1daycaptive,Aari&Jon,21,8,5,59,125,0,20,40,0
+13-May-16,,A 39,1daycaptive,Faye&Aneesh,21.5,8,3,70,108,0,18,101,0
+13-May-16,,A 40,1daycaptive,Haley&Tasha,,8,2,40,,1,,,
+13-May-16,,B 1,2daycaptive,Faye&Aneesh,,8,3,70,80,0,15,,
+13-May-16,,B 2,2daycaptive,Faye&Aneesh,22,8,3,48,159,0,18,,1
+13-May-16,,B3,2daycaptive,Aari&Jon,0,8,5,58,,1,14,,1
+13-May-16,,B 4,2daycaptive,Nikos&Jeff,10,8,2,59,60,0,,25,0
+13-May-16,,B5,2daycaptive,Aari&Jon,13,8,5,65,85,0,17,100,0
+13-May-16,,B6,2daycaptive,Spice&Dan,11,8,4,60,160,0,20,73,0
+13-May-16,,B7,2daycaptive,Spice&Dan,23,8,4,55,85,0,20,180,0
+13-May-16,,B8,2daycaptive,Aari&Jon,0,8,5,89,80,0,28,45,0
+13-May-16,,B 9,2daycaptive,Nikos&Jeff,12,8,2,57,90,0,10,155,0
+13-May-16,,B 10,2daycaptive,Nikos&Jeff,14,8,2,68,55,0,,,
+13-May-16,,B 11,2daycaptive,Faye&Aneesh,20,8,3,83,74,0,15,54,0
+13-May-16,,B12,2daycaptive,Aari&Jon,17,8,5,56,85,0,12,48,0
+13-May-16,,B 13,2daycaptive,Faye&Aneesh,26,8,3,63,99,0,17,38,0
+13-May-16,,B 14,2daycaptive,Nikos&Jeff,17,8,2,57,,1,10,100,0
+13-May-16,,B15,2daycaptive,Aari&Jon,16,8,5,70,71,0,23,45,0
+13-May-16,,B16,2daycaptive,Spice&Dan,8,8,4,58,78,0,20,63,0
+13-May-16,,B 17,2daycaptive,Nikos&Jeff,11,8,2,63,80,0,10,30,0
+13-May-16,,B18,2daycaptive,Spice&Dan,23,8,4,54,21,0,21,40,0
+13-May-16,,B19,2daycaptive,Spice&Dan,,8,4,68,104,0,25,,
+13-May-16,,B 20,2daycaptive,Haley&Tasha,10,8,2,59,72,0,15,,
+13-May-16,,B21,2daycaptive,Aari&Jon,13,8,5,75,74,0,14,75,0
+13-May-16,,B22,2daycaptive,Aari&Jon,19,8,5,69,88,0,14,48,0
+13-May-16,,B 23,2daycaptive,Nikos&Jeff,9,8,2,43,140,0,10,45,0
+13-May-16,,B 24,2daycaptive,Haley&Tasha,,8,2,76,120,0,,,
+13-May-16,,B25,2daycaptive,Spice&Dan,13,8,4,88,67,0,10,77,0
+13-May-16,,B 26,2daycaptive,Nikos&Jeff,,8,2,70,20,0,11,135,0
+13-May-16,,B 27,2daycaptive,Haley&Tasha,30,8,2,57,154,0,21,90,0
+13-May-16,,B 28,2daycaptive,Faye&Aneesh,24,8,3,59,127,0,15,106,0
+13-May-16,,B 29,2daycaptive,Haley&Tasha,,8,2,58,82,0,,,
+13-May-16,,B 30,2daycaptive,Haley&Tasha,30,8,2,58,,1,21,45,0
+13-May-16,,B 31,2daycaptive,Nikos&Jeff,7,8,2,50,60,0,10,60,0
+13-May-16,,B 32,2daycaptive,Haley&Tasha,,8,2,50,,1,,,
+13-May-16,,B 33,2daycaptive,Faye&Aneesh,19,8,3,54,67,0,15,66,0
+13-May-16,,B 34,2daycaptive,Faye&Aneesh,,8,3,95,,1,,,
+13-May-16,,B 35,2daycaptive,Haley&Tasha,,8,2,65,,1,40,,
+13-May-16,,B36,2daycaptive,Spice&Dan,37,8,4,62,132,0,15,25,0
+13-May-16,,B37,2daycaptive,Spice&Dan,13,8,4,65,101,0,8,88,0
+13-May-16,,B38,2daycaptive,Haley&Tasha,,8,2,70,47,0,,,
+13-May-16,,B39,2daycaptive,Aari&Jon,21,8,5,61,,1,26,52,0
+13-May-16,,B40,2daycaptive,Faye&Aneesh,24,8,3,63,60,0,15,50,0
+16-May-16,,C1,3daycaptive,Haley&Tasha,14,8,2,61,45,0,20,15,0
+16-May-16,,C2,3daycaptive,Haley&Tasha,14,8,2,64,97,0,11,71,0
+16-May-16,,C3,3daycaptive,Faye&Aneesh,27,8,3,64,54,0,17,34,0
+16-May-16,,C4,3daycaptive,Aari&Jon,,8,5,73,105,0,28,,
+16-May-16,,C5,3daycaptive,Haley&Tasha,10,8,2,74,73,0,23,57,0
+16-May-16,,C6,3daycaptive,Faye&Aneesh,,8,3,59,46,0,,,
+16-May-16,,C7,3daycaptive,Nikos&Jeff,,8,1,58,90,0,,,
+16-May-16,,C8,3daycaptive,Spice&Dan,,8,4,70,102,0,26,,
+16-May-16,,C9,3daycaptive,Spice&Dan,29,8,4,69,112,0,16,109,0
+16-May-16,,C10,3daycaptive,Haley&Tasha,25,8,2,61,152,0,19,54,0
+16-May-16,,C11,3daycaptive,Nikos&Jeff,5,8,1,76,120,0,5,25,0
+16-May-16,,C12,3daycaptive,Haley&Tasha,2,8,2,57,26,0,18,56,0
+16-May-16,,C13,3daycaptive,Spice&Dan,,8,4,67,33,0,26,46,0
+16-May-16,,C14,3daycaptive,Aari&Jon,3,8,5,73,65,0,28,72,0
+16-May-16,,C15,3daycaptive,Haley&Tasha,4,8,2,64,55,0,19,126,0
+16-May-16,,C16,3daycaptive,Faye&Aneesh,17,8,1,57,42,0,14,55,0
+16-May-16,,C17,3daycaptive,Aari&Jon,17,8,5,65,47,0,16,,1
+16-May-16,,C18,3daycaptive,Spice&Dan,,8,4,60,67,0,19,151,0
+16-May-16,,C19,3daycaptive,Nikos&Jeff,10,8,1,68,90,0,5,60,0
+16-May-16,,C20,3daycaptive,Aari&Jon,56,8,5,66,72,0,17,102,0
+16-May-16,,C21,3daycaptive,Haley&Tasha,14,8,2,69,30,0,19,77,0
+16-May-16,,C22,3daycaptive,Nikos&Jeff,15,8,1,67,45,0,11,35,0
+16-May-16,,C23,3daycaptive,Aari&Jon,22,8,5,60,65,0,16,35,0
+16-May-16,,C24,3daycaptive,Faye&Aneesh,,8,3,66,59,0,,,
+16-May-16,,C25,3daycaptive,Nikos&Jeff,10,8,1,65,40,0,5,40,0
+16-May-16,,C26,3daycaptive,Faye&Aneesh,39,8,3,62,80,0,15,53,0
+16-May-16,,C27,3daycaptive,Nikos&Jeff,10,8,1,63,110,0,5,50,0
+16-May-16,,C28,3daycaptive,Spice&Dan,19,8,4,58,142,0,13,118,0
+16-May-16,,C29,3daycaptive,Spice&Dan,14,8,4,57,,1,26,65,0
+16-May-16,,C30,3daycaptive,Haley&Tasha,14,8,2,68,,1,19,8,0
+16-May-16,,C31,3daycaptive,Aari&Jon,20,8,5,52,102,0,28,60,0
+16-May-16,,C32,3daycaptive,Spice&Dan,22,8,4,65,65,0,17,22,0
+16-May-16,,C33,3daycaptive,Faye&Aneesh,22,8,3,83,86,0,12,65,0
+16-May-16,,C34,3daycaptive,Spice&Dan,16,8,4,66,40,0,,,
+16-May-16,,C35,3daycaptive,Nikos&Jeff,10,8,1,59,35,0,5,40,0
+16-May-16,,C36,3daycaptive,Faye&Aneesh,21,8,3,60,83,0,0,,
+16-May-16,,C37,3daycaptive,Nikos&Jeff,20,8,1,67,115,0,11,120,0
+16-May-16,,C38,3daycaptive,Aari&Jon,0,8,5,53,120,0,28,78,0
+16-May-16,,C39,3daycaptive,Faye&Aneesh,,8,3,67,56,0,,,
+16-May-16,,C40,3daycaptive,Aari&Jon,24,8,5,68,75,0,15,105,0
+16-May-16,,D1,4daycaptive,Haley&Tasha,17,8,2,43,89,0,19,95,0
+16-May-16,,D2,4daycaptive,Spice&Dan,27,8,4,68,46,0,20,102,0
+16-May-16,,D3,4daycaptive,Spice&Dan,8,8,4,74,67,0,20,180,0
+16-May-16,,D4,4daycaptive,Nikos&Jeff,10,8,1,37,120,0,6,120,0
+16-May-16,,D5,4daycaptive,Spice&Dan,15,8,4,58,62,0,26,85,0
+16-May-16,,D6,4daycaptive,Nikos&Jeff,15,8,1,40,30,0,6,60,0
+16-May-16,,D7,4daycaptive,Aari&Jon,15,8,5,50,122,0,26,40,0
+16-May-16,,D8,4daycaptive,Aari&Jon,60,8,5,69,125,0,27,75,0
+16-May-16,,D9,4daycaptive,Faye&Aneesh,24,8,3,59,50,0,,,
+16-May-16,,D10,4daycaptive,Aari&Jon,17,8,5,47,,1,20,42,0
+16-May-16,,D11,4daycaptive,Haley&Tasha,7,8,2,53,,1,19,76,0
+16-May-16,,D12,4daycaptive,Nikos&Jeff,15,8,1,37,120,0,5,15,0
+16-May-16,,D13,4daycaptive,Spice&Dan,18,8,4,44,53,0,28,115,0
+16-May-16,,D14,4daycaptive,Nikos&Jeff,20,8,1,40,80,0,6,35,0
+16-May-16,,D15,4daycaptive,Faye&Aneesh,30,8,3,45,118,0,13,120,0
+16-May-16,,D16,4daycaptive,Faye&Aneesh,27,8,3,38,56,0,15,46,0
+16-May-16,,D17,4daycaptive,Nikos&Jeff,30,8,1,44,45,0,6,15,0
+16-May-16,,D18,4daycaptive,Haley&Tasha,20,8,2,60,75,0,14,108,0
+16-May-16,,D19,4daycaptive,Nikos&Jeff,15,8,1,53,120,0,6,15,0
+16-May-16,,D20,4daycaptive,Aari&Jon,11,8,5,43,75,0,11,112,0
+16-May-16,,D21,4daycaptive,Haley&Tasha,17,8,2,63,70,0,23,72,0
+16-May-16,,D22,4daycaptive,Spice&Dan,18,8,4,65,96,0,26,65,0
+16-May-16,,D23,4daycaptive,Spice&Dan,,8,4,,45,0,,,
+16-May-16,,D24,4daycaptive,Nikos&Jeff,15,8,1,56,50,0,5,90,0
+16-May-16,,D25,4daycaptive,Aari&Jon,21,8,5,60,120,0,28,57,0
+16-May-16,,D26,4daycaptive,Nikos&Jeff,,8,1,,25,0,9,,
+16-May-16,,D27,4daycaptive,Faye&Aneesh,,8,3,65,50,0,,,
+16-May-16,,D28,4daycaptive,Haley&Tasha,23,8,2,69,70,0,19,43,0
+16-May-16,,D29,4daycaptive,Spice&Dan,15,8,4,79,80,0,26,85,0
+16-May-16,,D30,4daycaptive,Haley&Tasha,12,8,2,59,72,0,19,80,0
+16-May-16,,D31,4daycaptive,Faye&Aneesh,35,8,3,52,66,0,17,,1
+16-May-16,,D32,4daycaptive,Faye&Aneesh,,8,3,58,69,0,,,
+16-May-16,,D33,4daycaptive,Spice&Dan,9,8,4,61,,1,16,180,0
+16-May-16,,D34,4daycaptive,Haley&Tasha,17,8,2,60,85,0,21,18,0
+16-May-16,,D35,4daycaptive,Aari&Jon,25,8,5,50,,1,26,73,0
+16-May-16,,D36,4daycaptive,Aari&Jon,26,8,5,69,107,0,26,58,0
+16-May-16,,D37,4daycaptive,Faye&Aneesh,26,8,3,46,45,0,15,68,0
+16-May-16,,D38,4daycaptive,Haley&Tasha,23,8,2,50,140,0,19,45,0
+16-May-16,,D39,4daycaptive,Faye&Aneesh,,8,3,59,55,0,12,54,0
+16-May-16,,D40,4daycaptive,Aari&Jon,25,8,5,51,177,0,26,70,0
