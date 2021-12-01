@@ -1,4 +1,4 @@
-Date,Day,UrchinID,Treatment,BuddyPair,Distance (cm) travelled in 30 sec (predator flight response),NumUrchinsDeployedAtBuoy,BuoyNumber,UrchinTestDiameter(mm),Righting time on release day (sec),Righting time over 180 sec (0/1) (deployment day),AggregationScore,Righting time post-24h (sec),Righting time over 180 sec (0/1) (post 24h)
+Date,Day,UrchinID,Treatment,BuddyPair,Distance,NumUrchinsDeployedAtBuoy,BuoyNumber,Diameter,Righting time on release day (sec),Righting time over 180 sec (0/1) (deployment day),AggregationScore,Righting time post-24h (sec),Righting time over 180 sec (0/1) (post 24h)
 12-May-16,1,Wild 1,wildcontrol,Faye&Aneesh,40,,,77,50,0,11,,
 12-May-16,1,Wild 2,wildcontrol,Faye&Aneesh,25,,,48,30,0,13,,
 12-May-16,1,Wild 3,wildcontrol,Faye&Aneesh,30,,,48,43,0,12,,
