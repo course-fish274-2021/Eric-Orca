@@ -1,0 +1,41 @@
+---
+title: "Eric-Urchin"
+author: "Eric_Wang"
+date: "12/3/2021"
+output: html_document
+---
+#project main concept
+
+this project, I will be investigating data collected from wild Urchins and captive Urchins, studying about the effect of capture and handle on their size.
+
+```{r, echo=FALSE}
+#loading required data, packages and libraries
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(readr)
+Urchin_data <- read_csv("../data_raw/Urchin data - for repository.csv")
+filtered_data <- select(Urchin_data, Diameter,Distance)
+Compare_Wild_and_Captive <- select(Urchin_data, Diameter,Treatment)
+```
+
+#Questions
+
+#Question 1 Does Urchin size affect the distance Urchin move in 30 seconds(predator flight response)?
+```{r, echo=FALSE}
+ggplot(filtered_data)+
+  geom_smooth(mapping=aes(x = Diameter, y = Distance),method="lm")+ #make the plot
+scale_y_log10() +
+  scale_x_log10()
+```
+
+#Question 2 Does time after being captured affect the mean size of Urchins?
+```{r, echo=FALSE}
+ggplot(Compare_Wild_and_Captive)+
+  geom_histogram(mapping=aes( x = Diameter))+
+  scale_y_log10()+
+  scale_x_log10()+
+  facet_wrap(~Treatment)
+  
+```
+   
