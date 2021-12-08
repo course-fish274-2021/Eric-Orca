@@ -17,6 +17,9 @@ library(readr)
 Urchin_data <- read_csv("../data_raw/Urchin data - for repository.csv")
 filtered_data <- select(Urchin_data, Diameter,Distance)
 Compare_Wild_and_Captive <- select(Urchin_data, Diameter,Treatment)
+Mean_Diameter <- Compare_Wild_and_Captive %>%
+group_by(Treatment) %>%
+summarize(Mean = mean(Diameter, na.rm=TRUE))
 ```
 
 #Questions
@@ -36,6 +39,10 @@ ggplot(Compare_Wild_and_Captive)+
   scale_y_log10()+
   scale_x_log10()+
   facet_wrap(~Treatment)
+
+#Print Mean
+knitr::kable(head(Mean_Diameter))
+
   
 ```
    
