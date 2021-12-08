@@ -7,29 +7,53 @@ output: ioslides_presentation
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+options(knitr.table.format = 'markdown')
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(readr)
+Urchin_data <- read_csv("../data_raw/Urchin data - for repository.csv")
+filtered_data <- select(Urchin_data, Diameter,Distance)
+Compare_Wild_and_Captive <- select(Urchin_data, Diameter,Treatment)
+Mean_Diameter <- Compare_Wild_and_Captive %>%
+group_by(Treatment) %>%
+summarize(Mean = mean(Diameter, na.rm=TRUE))
 ```
 
-## R Markdown
+## Project Concept:
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+In this project, I will be investigating data collected from wild Urchins and captive Urchins, studying about the effect of capture and handle on their size.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-## Slide with Bullets
+## Questions to be studied 
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Does Urchin size affect the distance Urchin move in 30 seconds(predator flight response)?
+- Does time after being captured affect the mean size of Urchins?
 
-## Slide with R Output
+## Question 1: Does Urchin size affect the distance Urchin move in 30 seconds(predator flight response)?
 
-```{r cars, echo = TRUE}
-summary(cars)
+```{r cars, echo = FALSE,warning=FALSE,message=FALSE}
+ggplot(filtered_data)+
+  geom_smooth(mapping=aes(x = Diameter, y = Distance),method="lm")+ #make the plot
+scale_y_log10() +
+  scale_x_log10()
 ```
 
-## Slide with Plot
+## Question 2: Does time after being captured affect the mean size of Urchins?
 
-```{r pressure}
-plot(pressure)
+```{r,echo=FALSE,warning=FALSE,message=FALSE}
+ggplot(Compare_Wild_and_Captive)+
+  geom_histogram(mapping=aes( x = Diameter))+
+  scale_y_log10()+
+  scale_x_log10()+
+  facet_wrap(~Treatment)
+```
+## Means for each treatment group for comparison
+```{r}
+
+knitr::kable(head(Mean_Diameter))
+
 ```
 
+##Citation
+Cote, Isabelle (2019): Urchin data - for repository.csv. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7302374.v1
