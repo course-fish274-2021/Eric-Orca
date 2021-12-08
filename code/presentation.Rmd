@@ -48,11 +48,15 @@ ggplot(Compare_Wild_and_Captive)+
   scale_x_log10()+
   facet_wrap(~Treatment)
 ```
+
+
+
+
 ## Means for each treatment group for comparison
+
+
 ```{r}
-
 knitr::kable(head(Mean_Diameter))
-
 ```
 
 ##Citation
